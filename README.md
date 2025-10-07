@@ -1,2 +1,3 @@
-# THis is new project
+# This is new project
 
+This project is build in local system
